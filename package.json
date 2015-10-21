@@ -1,0 +1,22 @@
+{
+  "name": "acl",
+  "version": "0.0.1",
+  "description": "yet another access contol list module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metaory/acl.git"
+  },
+  "keywords": [
+    "acl"
+  ],
+  "author": "metaory <metaory@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metaory/acl/issues"
+  },
+  "homepage": "https://github.com/metaory/acl#readme"
+}
